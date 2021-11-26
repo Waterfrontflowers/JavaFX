@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="javafx-base-17-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-17-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-17-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-17-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-17-win.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
